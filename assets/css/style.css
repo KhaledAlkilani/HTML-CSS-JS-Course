@@ -1,0 +1,19 @@
+:root {
+    /* colors */
+    --color-primary: #ee5057;
+    --color-secondary: #111;
+    --color-text: #898989;
+
+    /* fonts */
+    --font-primary: "open Sans", Helvetica, Arial, sans-serif;
+    --font-bold: 700;
+    --font-light: 400;
+    --font-size-text: 13px;
+    --font-size-title: 20px;
+    --font-size-section-title: 48px;
+
+    /* size */
+    --size-primary: 25px;
+    --margin-primary: var(--size-primary);
+    --padding-primary: var(--size-primary);
+}
